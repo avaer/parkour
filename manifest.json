@@ -1,6 +1,7 @@
 {
-  "name": "mirror",
-  "description": "Mirror XRPackage",
+  "name": "parkour",
+  "description": "Parkour XRPackage",
   "xr_type": "webxr-site@0.0.1",
-  "start_url": "index.js"
+  "start_url": "parkour.glb",
+  "physics_url": "parkour.bin"
 }
